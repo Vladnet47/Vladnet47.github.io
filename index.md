@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Vladnet47/Vladnet47.github
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-[Link](Vladnet47.github.io/arduino_lcd_game.md)
+[Link](./arduino_lcd_game.html)
 
 ### Markdown
 
