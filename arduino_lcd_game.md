@@ -76,4 +76,4 @@ As you can see, the characters never occupied the same position, skipping over e
 Although this was a fairly simple project, it definitely proved to be challenging at times. It gave me experience with wiring peripherals to the Arduino and error-handling circuits, which is not a trivial task in itself. I also learned how to properly convert analog input from the joystick into usable form and correctly print characters on the LCD display. All in all, I am satisfied with the result.
 
 ## Source Code
-Here is a [link to the source code].
+Here is a [link to the source code](https://github.com/Vladnet47/Vladnet47.github.io/blob/master/arduino_lcd_game/LCD_Game.ino).
