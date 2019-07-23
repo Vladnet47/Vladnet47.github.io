@@ -5,6 +5,7 @@ You can use the [editor on GitHub](https://github.com/Vladnet47/Vladnet47.github
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 [![](./arduino_lcd_game/Cover_Image.JPG)](./arduino_lcd_game.html)
+[Link to Swimming Fish](./arduino_animated_fish.html)
 
 ### Markdown
 
