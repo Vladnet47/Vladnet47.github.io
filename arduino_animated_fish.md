@@ -20,7 +20,27 @@ Knowing this, let's look at some of the behind-the-scenes features of LCDMap tha
 
 **Eight-directional rotation:** one way to rotate an image is to create eight different versions - one for each direction. LCDMap accomplishes this using only two versions of the image, horizontal and diagonal. The two images are read in normal/reverse row/column order to "turn" in all other directions.
 
-For high-level information about what the LCDMap does and how to use it, please refer to the documentation in this repository.
+For high-level information about what the LCDMap does and how to use it, please refer to the documentation in [this repository]. Personally, I find that documentation is easier to understand after some hands-on experience with the functionality of the software.
+
+And what better way to demonstrate LCDMap than with an example? [BouncyBalls] and [AnimatedFish] are Arduino programs that utilize most of the functions defined in the library.
+
+// insert image of bouncy balls
+
+BouncyBalls is the simpler of the two, serving as a starting point for users who are unfamiliar with LCDMap without cluttering the program with complex movement and rotation mechanics. The title perfectly summarizes its functionality: eight pixel-sized sprites move around and repel from the edges of the LCD. Once a ball has reached a vertical or horizontal boundary, its rotation is flipped respectively to create the illusion of a bounce.
+
+That's pretty much it. In addition to movement and rotation, BouncyBalls also demonstrates how multiple sprites are drawn on the same custom character if they all overlap, but this is feature attributed to LCDMap.
+
+// insert image of animated fish
+
+// describe lcd fish
+
+// describe basic elements
+// wiring
+// including libraries
+// draw method
+
+
+
 
 
 
